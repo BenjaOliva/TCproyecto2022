@@ -1,1 +1,16 @@
-int a = 5;
+int suma(double a, int b){
+  c = a + b;
+}
+
+int main(double a, int b){
+  if(a<b){
+    suma(a,b);
+  }
+  par(a);
+}
+int x;
+int y = 9;
+
+double j = 9;
+int g = 5;
+main(j, g);
